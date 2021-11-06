@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Sandorabad
-- 👀 I’m interested in Leadership, Finance and C
--oding
+- 👀 I’m interested in Leadership, Finance and Coding
 - 🌱 I’m currently studiying Business Engineering 
 - 📫 How to reach me: sandorabad.cl@gmail.com
 
