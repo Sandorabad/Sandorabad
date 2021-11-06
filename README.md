@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Sandorabad
-- 👀 I’m interested in Leadership, Finance and Coding
-- 🌱 I’m currently studiying Business Engineering 
-- 📫 How to reach me: sandorabad.cl@gmail.com
+->👋 Hi, I’m @Sandorabad
+->👀 I’m interested in Leadership, Finance, and Coding
+->🌱 I’m currently studying Business Engineering
+->📫 How to reach me: sandorabad.cl@gmail.com
 
 <!---
 Sandorabad/Sandorabad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
