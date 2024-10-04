@@ -1,8 +1,8 @@
-👋 Hi, I’m @Sandorabad (Instagram)
-👀 Passionate about finance📈, public policy📝, taxation📑, programming🤖 and leadership👊.
-🌱 I’m currently studying Commercial Engineering at UAI
-📫 How to reach me: sandorabad.cl@gmail.com
-🌐Linktree: https://linktr.ee/sandorabad
+-> 👋 Hi, I’m Sandor Abad
+-> 💼 I’m passionate about leadership, business, and data
+-> 🎓 I’m currently pursuing an MS in Business Analytics at UCLA Anderson
+-> 📊 I specialize in business strategy, machine learning, and data engineering
+-> 🌐 Connect with me: sandorabad@g.ucla.edu
 
 <!---
 Sandorabad/Sandorabad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
